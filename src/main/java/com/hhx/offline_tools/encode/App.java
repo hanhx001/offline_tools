@@ -1,4 +1,4 @@
-package com.hhx.offline_tools;
+package com.hhx.offline_tools.encode;
 
 /**
  * Hello world!
