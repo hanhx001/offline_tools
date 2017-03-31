@@ -7,4 +7,6 @@
 
 加入对 Lombok    工具的整理 ，博客地址：http://blog.csdn.net/wjsshhx/article/details/63251223        
 
-读源码String类     源码整理， 博客地址：http://blog.csdn.net/wjsshhx/article/details/64443257
+读源码String类     源码整理， 博客地址：http://blog.csdn.net/wjsshhx/article/details/64443257        
+
+JAVA中12个原子操作类的整理，  博客地址：http://blog.csdn.net/wjsshhx/article/details/68927572
