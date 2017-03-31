@@ -7,6 +7,10 @@ import java.util.concurrent.atomic.AtomicLong;
 
 /**
  * 原子更新基本类型类
+ * 
+ * 1、AtomicBoolean 原子更新布尔类型值
+ * 2、AtomicInteger 原子更新整型
+ * 3、AtomicLong    原子更新 长整型
  * @author 清水贤人
  *
  */
@@ -37,7 +41,7 @@ public class AtomicBaseType {
 		
 		
 		//由于 AtomicBoolean，AtomicLong API和AtomicInteger 相差无几 在这里不列出
-		
+		 
 	}
 
 }
