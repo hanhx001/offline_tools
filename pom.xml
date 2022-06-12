@@ -23,8 +23,8 @@
               <artifactId>maven-compiler-plugin</artifactId>
               <version>3.8.1</version>
               <configuration>
-                  <source>${jdk.version}</source>
-                  <target>${jdk.version}</target>
+                  <source>8</source>
+                  <target>8</target>
                   <showWarnings>true</showWarnings>
               </configuration>
           </plugin>
