@@ -18,7 +18,6 @@ import com.alibaba.fastjson.serializer.SimplePropertyPreFilter;
 import com.hhx.offline_tools.bean.FastJsonGroup;
 import com.hhx.offline_tools.bean.FastJsonUser;
 
-import junit.framework.Assert;
 import lombok.Cleanup;
 
 
